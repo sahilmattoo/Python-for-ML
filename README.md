@@ -7,5 +7,6 @@ Regression
 3. PLR
 
 Classification
+
 4. Logistic
 5. Naive Bayes
